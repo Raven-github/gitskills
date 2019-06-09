@@ -7,4 +7,5 @@ this is  change.
 这是我新添加的。
 
 
+bug 已经修复。
 this is dev bug.
